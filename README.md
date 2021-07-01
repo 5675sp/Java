@@ -1,4 +1,4 @@
-# Java Project
+# Java Projects
 
 ---
 > - Folder Name
